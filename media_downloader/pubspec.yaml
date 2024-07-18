@@ -1,23 +1,23 @@
 name: media_downloader
 description: A package to facilitate downloading media files for offline use, and loading them into a Flutter project.
-version: 0.0.1
+version: 1.0.0
 author:
 homepage:
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">3.22.3"
 
 dependencies:
   flutter:
     sdk: flutter
-  http: 0.12.0+1
-  optional: ^3.1.0
-  path_provider: ^1.3.1
+  http: ^1.2.2
+  optional: ^6.1.0+1
+  path_provider: ^2.1.3
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  mockito: 4.0.0
+  mockito: 5.4.4
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

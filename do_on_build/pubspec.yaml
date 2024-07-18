@@ -1,11 +1,11 @@
 name: do_on_build
 description: A new Flutter package project.
-version: 0.0.1
+version: 1.0.0
 author:
 homepage:
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">3.22.3"
 
 dependencies:
   flutter:
